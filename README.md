@@ -1,4 +1,4 @@
-# ORPerceptron
+# OR_Perceptron
 Lydia Noureldin
 April 7 2017
 
